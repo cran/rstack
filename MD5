@@ -1,0 +1,10 @@
+e9dff4eff343e2ff50a86bab7414d1c7 *DESCRIPTION
+ddfa93fe5d0827d872d34b7eef574617 *LICENSE
+c9af0031ef27c3e388688d81a3e74509 *NAMESPACE
+104b43a7414eeb73afc5f408f76d9163 *NEWS.md
+75d1588d4149b15b8b57905bec2e13d9 *R/package.R
+52f00cec614860317895e5a9dae57fce *README.md
+3d89de7423e96507b0263f00c3842882 *man/stack.Rd
+d6ab86b03c4ce25b97fbea3c276a66f2 *tests/testthat.R
+ceaad5a8d4c00d065d597c940c47b781 *tests/testthat/test-stack.R
+e810f0147141729cfd4ec2545d7a339d *tests/testthat/test.R
